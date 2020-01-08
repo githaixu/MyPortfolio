@@ -128,7 +128,7 @@ nav {
 }
 .main-message p {
   font-size: 1.6rem;
-  width: 60rem;
+  max-width: 60rem;
   margin: 0 auto;
 }
 
@@ -242,6 +242,9 @@ section.project::before {
 }
 #react-todo-list {
   background: url(./images/react-todo-app.png) center /cover no-repeat;
+}
+#game-of-life {
+  background: url(./images/game-of-life2.png) center /cover no-repeat;
 }
 
 /* style about */
