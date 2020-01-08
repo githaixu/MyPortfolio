@@ -6,6 +6,6 @@ React/Reduct/BootStrap
 JSON/Weather API    
 Git/GitHub/npmなど    
 
-##Comment
+## Comment
 まだまだ納得の行くような物からは程遠いですが、逐次更新とアップデートをしていきたいと思います。
 
