@@ -265,12 +265,13 @@ section.about::before {
   padding: 5rem;
 }
 #window {
+  margin-top: 3rem;
   width: 18rem;
   height: 18rem;
   /* background-color: red; */
   border-radius: 9rem;
   background: url('./images/my-photo.jpg') center /cover no-repeat;
-  margin-right: 3rem;
+  border: 0.3rem solid white;
 }
 .self-introduction {
   color: var(--black-theme-color);
@@ -279,6 +280,7 @@ section.about::before {
   margin: 0 auto;
   line-height: 3rem;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
@@ -380,6 +382,12 @@ footer {
   }
   .nav-link:hover::before {
     transform: scaleX(1);
+  }
+  .self-introduction {
+    flex-direction: row;
+  }
+  .title-heading .title {
+    /* margin-bottom: 100px; */
   }
 }
 
