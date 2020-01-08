@@ -1,5 +1,5 @@
 # MyPortfolio
-これまで学んだ技術を使って、ポートフォリアを作成し、開発プロジェクトを展示
+これまで学んだ技術を使って、ポートフォリアを作成し、開発プロジェクトを展示しております。
 ## 使用技術
 HTML/CSS/Javascript/    
 React/Reduct/BootStrap    
