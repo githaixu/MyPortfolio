@@ -179,6 +179,9 @@ section.project::before {
 .flex-item:hover {
   transform: scale(1.02);
 }
+.flex-item p {
+  width: 90%;
+}
 .overlay {
 	display: flex;
 	flex-direction: column;
@@ -246,6 +249,10 @@ section.project::before {
 #game-of-life {
   background: url(./images/game-of-life2.png) center /cover no-repeat;
 }
+#frontend-mentor-challenge-four-card {
+  background: url(./images/frontend-mentor-challenge-four-card.png) center /cover no-repeat;
+}
+
 
 /* style about */
 section.about {
