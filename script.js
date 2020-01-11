@@ -1,3 +1,4 @@
+//nav bar interaction
 document.querySelector('.open').addEventListener('click', ()=>{
   document.querySelector('.nav-list').classList.add('active');
 })
