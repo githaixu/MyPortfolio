@@ -278,7 +278,7 @@ section.about::before {
 }
 
 #self-description {
-  padding: 5rem;
+  padding: 1rem;
 }
 #window {
   margin-top: 3rem;
@@ -353,7 +353,7 @@ section.about::before {
   left: 3rem;
 }
 .card {
-  width: 60%;
+  width: 80%;
   position: relative;
   background-color: var(--white-theme-color);
   border-radius: .5rem;
